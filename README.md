@@ -8,4 +8,5 @@
 // The user then has the option to add more team members. If they choose to add more, the CLI will run the addMember() from the top. If not, the buildTeam() will build the team and write it to an HTML page.
 
 // YouTube link to functioning application
-http://img.youtube.com/vi/{NfDJ6RO_Ji8}/0.jpg
+
+https://youtu.be/NfDJ6RO_Ji8
