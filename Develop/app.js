@@ -75,9 +75,10 @@ function addMember() {
                 newMember = new Manager(name, id, email, roleReturn);
             }
             employees.push(newMember);
-            console.log(employees);
                 if (addTeamMember === "Yes") {
+                    console.log("--------------------------")
                     addMember();
+                    
                 } else {
                     buildTeam();
                 }
